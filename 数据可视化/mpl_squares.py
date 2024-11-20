@@ -9,4 +9,4 @@ plt.ylabel("Square of Value",fontsize=14)
 #设置刻度标记的大小
 plt.tick_params(axis='both',labelsize=10)
 
-plt.show()
+plt.show()#good
